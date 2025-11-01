@@ -27,7 +27,6 @@ Here’s what makes this dashboard stand out:
 
 - **Interactive Visualizations**: A suite of charts for multi-dimensional insights:
   - **Bar Charts**: Compare billing across departments (Cardiology, Orthopedics) and procedures (X-Ray, CT Scan).
-  - **Donut/Pie Charts**: Visualize distribution of diagnoses (Hypertension, Asthma) and service types (Emergency vs. Non-Emergency).
   - **Map Visuals**: Display patient geographic data (City, State) with a "Patients Location Switch" toggle.
 
 - **Dynamic Filtering**: Slicers for `Race`, `Year`, `Quarter`, and `Month` enable granular analysis.
