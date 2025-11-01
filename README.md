@@ -22,8 +22,6 @@ Here’s what makes this dashboard stand out:
  
     
   - Departmental and procedural revenue breakdowns.
- 
-    - - <img width="1332" height="749" alt="image" src="https://github.com/user-attachments/assets/17388575-c5d6-4d76-943b-85fe399477a7" />
 
 - **Interactive Visualizations**: A suite of charts for multi-dimensional insights:
   - **Bar Charts**: Compare billing across departments (Cardiology, Orthopedics) and procedures (X-Ray, CT Scan).
@@ -39,3 +37,8 @@ Here’s what makes this dashboard stand out:
 - **Averages**: Per-visit Billing, Medication Costs, Out-of-Pocket amounts.
 - **Breakdowns**: Revenue by Department, Procedure, Diagnosis, and Service Type.
 - **Geographic Insights**: Patient distribution by location.
+
+  - - <img width="1332" height="749" alt="image" src="https://github.com/user-attachments/assets/17388575-c5d6-4d76-943b-85fe399477a7" />
+
+  <img width="175" height="434" alt="image" src="https://github.com/user-attachments/assets/4f22fc31-43e4-4a62-9da0-e3b84b442083" />
+
