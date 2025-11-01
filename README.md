@@ -19,9 +19,11 @@ Here’s what makes this dashboard stand out:
   - `Average Billing per Visit`
   - `Average Medication Cost`
   - `Average Insurance Coverage`
+ 
+    
   - Departmental and procedural revenue breakdowns.
  
-  - - <img width="1332" height="749" alt="image" src="https://github.com/user-attachments/assets/17388575-c5d6-4d76-943b-85fe399477a7" />
+    - - <img width="1332" height="749" alt="image" src="https://github.com/user-attachments/assets/17388575-c5d6-4d76-943b-85fe399477a7" />
 
 - **Interactive Visualizations**: A suite of charts for multi-dimensional insights:
   - **Bar Charts**: Compare billing across departments (Cardiology, Orthopedics) and procedures (X-Ray, CT Scan).
@@ -38,6 +40,3 @@ Here’s what makes this dashboard stand out:
 - **Averages**: Per-visit Billing, Medication Costs, Out-of-Pocket amounts.
 - **Breakdowns**: Revenue by Department, Procedure, Diagnosis, and Service Type.
 - **Geographic Insights**: Patient distribution by location.
-
-
-
